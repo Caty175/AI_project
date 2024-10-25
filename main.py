@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the dataset from the CSV file
-data = pd.read_csv('C:/Users/HP/OneDrive/Documents/school work/AI/AIproject/data.csv')
+data = pd.read_csv('C:/Users/HP/OneDrive/Documents/school work/AI/AI_project/data.csv')
 
 # Check data summary
 print(data.describe())
